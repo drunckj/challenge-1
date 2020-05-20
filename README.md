@@ -5,7 +5,7 @@ This data.zip has a complex structure and one of the files inside it contains an
 - Hint: the easiest approach is to use bash
 - ill update this repo with the answers after 3 days till then try it yourself.
 ## Happy Scripting
-The best asnwer is:
+The best answer is:
 ```
 find . -name "*.zip" -exec zipgrep gmail {} \;
 ```
